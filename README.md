@@ -12,9 +12,9 @@ or
 ## Install required packages:
 ### pip install -r requirements.txt
 
-# Then: 
-# Run all cells in data_prep.ipynb 
-# Then run cells in analysis.ipynb sequentially 
+# Run Instructions
+## Run all cells in data_prep.ipynb (one time data pre-processing)
+## Then run cells in analysis.ipynb sequentially 
 
 # TAXI DATASET: https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019?select=yellow_tripdata_2019-02.csv
 # WEATHER DATASET: https://www.kaggle.com/datasets/aadimator/nyc-weather-2016-to-2022
