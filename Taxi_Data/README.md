@@ -1,0 +1,1 @@
+## Please download the NYC Yellow Taxi Trip Dataset from https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019?select=yellow_tripdata_2019-02.csv and unzip into this folder 
